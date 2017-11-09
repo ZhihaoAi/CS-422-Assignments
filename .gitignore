@@ -11,7 +11,7 @@
 *.toc
 *.pdf
 
-# ipynb
+# HW5
 Homework5/.ipynb_checkpoints/
-
+Homework5/imgs/
 
