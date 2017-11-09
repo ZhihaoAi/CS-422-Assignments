@@ -2,3 +2,16 @@
 *.docx
 *.png
 *.txt
+
+# latex
+*.aux
+*.log
+*.synctex.gz
+*.tex
+*.toc
+*.pdf
+
+# ipynb
+Homework5/.ipynb_checkpoints/
+
+
