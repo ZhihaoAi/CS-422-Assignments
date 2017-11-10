@@ -1,17 +1,17 @@
 *.pdf
 *.docx
-*.png
+# *.png
 *.txt
 
-# latex
+## latex
 *.aux
 *.log
 *.synctex.gz
-*.tex
+# *.tex
 *.toc
 *.pdf
 
-# HW5
+## HW5
 Homework5/.ipynb_checkpoints/
-Homework5/imgs/
+# Homework5/imgs/
 
